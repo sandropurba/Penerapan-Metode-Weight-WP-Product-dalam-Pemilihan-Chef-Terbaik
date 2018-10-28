@@ -1,0 +1,82 @@
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\bin\Debug\Dina_WP.exe
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\bin\Debug\Dina_WP.pdb
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\bin\Debug\Dina_WP.xml
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\ResolveAssemblyReference.cache
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Form1.resources
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Menu_Utama.resources
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Resources.resources
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.vbproj.GenerateResource.Cache
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.exe
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.xml
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.pdb
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Bobot_Kriteria.resources
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Alternatif.resources
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Input_Nilai.resources
+E:\SKRIPSI\Program Dina\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Analisa_Perhitungan.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.exe
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.xml
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.pdb
+E:\Backup\Dina_WP\Dina_WP\bin\Debug\Dina_WP.exe
+E:\Backup\Dina_WP\Dina_WP\bin\Debug\Dina_WP.pdb
+E:\Backup\Dina_WP\Dina_WP\bin\Debug\Dina_WP.xml
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Alternatif.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Analisa_Perhitungan.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Bobot_Kriteria.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Form1.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Input_Nilai.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Menu_Utama.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Resources.resources
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.vbproj.GenerateResource.Cache
+E:\Backup\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Hasil.resources
+C:\Users\Dina\Documents\Dina_WP\Dina_WP\obj\Debug\Dina_WP.exe
+C:\Users\Dina\Documents\Dina_WP\Dina_WP\obj\Debug\Dina_WP.xml
+C:\Users\Dina\Documents\Dina_WP\Dina_WP\obj\Debug\Dina_WP.pdb
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.exe
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.xml
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.pdb
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\bin\Debug\Dina_WP.exe
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\bin\Debug\Dina_WP.pdb
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\bin\Debug\Dina_WP.xml
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Alternatif.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Analisa_Perhitungan.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Bobot_Kriteria.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Form1.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Hasil.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Input_Nilai.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Menu_Utama.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Resources.resources
+C:\Users\Dina\Documents\ganti\Dina_WP\Dina_WP\obj\Debug\Dina_WP.vbproj.GenerateResource.Cache
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.exe
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.xml
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.pdb
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\bin\Debug\Dina_WP.exe
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\bin\Debug\Dina_WP.pdb
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\bin\Debug\Dina_WP.xml
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Alternatif.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Analisa_Perhitungan.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Bobot_Kriteria.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Form1.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Hasil.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Input_Nilai.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Menu_Utama.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Resources.resources
+C:\Users\Dina\Documents\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.vbproj.GenerateResource.Cache
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.exe
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.xml
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.pdb
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\bin\Debug\Dina_WP.exe
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\bin\Debug\Dina_WP.pdb
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\bin\Debug\Dina_WP.xml
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Alternatif.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Analisa_Perhitungan.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Bobot_Kriteria.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Form1.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Hasil.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Input_Nilai.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Menu_Utama.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.Resources.resources
+E:\Document\Skripsi\ok\Dina_WP\Dina_WP\obj\Debug\Dina_WP.vbproj.GenerateResource.Cache
